@@ -1,0 +1,6 @@
+logs/
+*.html
+*.png
+*.log
+backup/__pycache__
+*py[cod]

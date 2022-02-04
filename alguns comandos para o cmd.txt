@@ -11,3 +11,5 @@ robot -d ./logs tests\buttons.robot
 robot tests\buttons.robot
 	Comando Simples em que está rodando o arquivo buttons que se encontra dentro da pasta
 	tests e como não está sendo criado a pasta para os logs tudo será criado solto na pasta
+
+	pip install --upgrade robotframework-appiumlibrary
